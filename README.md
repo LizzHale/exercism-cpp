@@ -1,6 +1,6 @@
 # exercism-cpp
 
-Iterations for the exercism.io c++ track exercises
+My iterations of the exercism.io c++ track exercises
 
 #### Learning Resources
 
