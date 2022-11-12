@@ -1,0 +1,17 @@
+[
+{
+  "directory": "/Users/lizzhale/Exercism/cpp/hello-world/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++   -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -Wall -Wextra -Wpedantic -Werror -std=c++17 -o CMakeFiles/hello-world.dir/hello_world_test.cpp.o -c /Users/lizzhale/Exercism/cpp/hello-world/hello_world_test.cpp",
+  "file": "/Users/lizzhale/Exercism/cpp/hello-world/hello_world_test.cpp"
+},
+{
+  "directory": "/Users/lizzhale/Exercism/cpp/hello-world/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++   -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -Wall -Wextra -Wpedantic -Werror -std=c++17 -o CMakeFiles/hello-world.dir/hello_world.cpp.o -c /Users/lizzhale/Exercism/cpp/hello-world/hello_world.cpp",
+  "file": "/Users/lizzhale/Exercism/cpp/hello-world/hello_world.cpp"
+},
+{
+  "directory": "/Users/lizzhale/Exercism/cpp/hello-world/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++   -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -Wall -Wextra -Wpedantic -Werror -std=c++17 -o CMakeFiles/hello-world.dir/test/tests-main.cpp.o -c /Users/lizzhale/Exercism/cpp/hello-world/test/tests-main.cpp",
+  "file": "/Users/lizzhale/Exercism/cpp/hello-world/test/tests-main.cpp"
+}
+]
