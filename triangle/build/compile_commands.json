@@ -1,0 +1,17 @@
+[
+{
+  "directory": "/Users/lizzhale/Exercism/cpp/triangle/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++   -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -Wall -Wextra -Wpedantic -Werror -std=c++17 -o CMakeFiles/triangle.dir/triangle_test.cpp.o -c /Users/lizzhale/Exercism/cpp/triangle/triangle_test.cpp",
+  "file": "/Users/lizzhale/Exercism/cpp/triangle/triangle_test.cpp"
+},
+{
+  "directory": "/Users/lizzhale/Exercism/cpp/triangle/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++   -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -Wall -Wextra -Wpedantic -Werror -std=c++17 -o CMakeFiles/triangle.dir/triangle.cpp.o -c /Users/lizzhale/Exercism/cpp/triangle/triangle.cpp",
+  "file": "/Users/lizzhale/Exercism/cpp/triangle/triangle.cpp"
+},
+{
+  "directory": "/Users/lizzhale/Exercism/cpp/triangle/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++   -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -Wall -Wextra -Wpedantic -Werror -std=c++17 -o CMakeFiles/triangle.dir/test/tests-main.cpp.o -c /Users/lizzhale/Exercism/cpp/triangle/test/tests-main.cpp",
+  "file": "/Users/lizzhale/Exercism/cpp/triangle/test/tests-main.cpp"
+}
+]
