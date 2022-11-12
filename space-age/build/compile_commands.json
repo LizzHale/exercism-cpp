@@ -1,0 +1,17 @@
+[
+{
+  "directory": "/Users/lizzhale/Exercism/cpp/space-age/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++   -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -Wall -Wextra -Wpedantic -Werror -std=c++17 -o CMakeFiles/space-age.dir/space_age_test.cpp.o -c /Users/lizzhale/Exercism/cpp/space-age/space_age_test.cpp",
+  "file": "/Users/lizzhale/Exercism/cpp/space-age/space_age_test.cpp"
+},
+{
+  "directory": "/Users/lizzhale/Exercism/cpp/space-age/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++   -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -Wall -Wextra -Wpedantic -Werror -std=c++17 -o CMakeFiles/space-age.dir/space_age.cpp.o -c /Users/lizzhale/Exercism/cpp/space-age/space_age.cpp",
+  "file": "/Users/lizzhale/Exercism/cpp/space-age/space_age.cpp"
+},
+{
+  "directory": "/Users/lizzhale/Exercism/cpp/space-age/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++   -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -Wall -Wextra -Wpedantic -Werror -std=c++17 -o CMakeFiles/space-age.dir/test/tests-main.cpp.o -c /Users/lizzhale/Exercism/cpp/space-age/test/tests-main.cpp",
+  "file": "/Users/lizzhale/Exercism/cpp/space-age/test/tests-main.cpp"
+}
+]
