@@ -10,7 +10,6 @@ TEST_CASE("square_1")
     REQUIRE(1ULL == grains::square(1));
 }
 
-#if defined(EXERCISM_RUN_ALL_TESTS)
 TEST_CASE("square_2")
 {
     REQUIRE(2ULL == grains::square(2));
@@ -31,6 +30,7 @@ TEST_CASE("square_16")
     REQUIRE(32768ULL == grains::square(16));
 }
 
+#if defined(EXERCISM_RUN_ALL_TESTS)
 TEST_CASE("square_32")
 {
     REQUIRE(2147483648ULL == grains::square(32));

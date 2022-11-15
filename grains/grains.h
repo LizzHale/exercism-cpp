@@ -3,6 +3,8 @@
 
 namespace grains {
 
+    int square(int number);
+
 }  // namespace grains
 
 #endif // GRAINS_H
