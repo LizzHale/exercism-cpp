@@ -1,0 +1,4 @@
+/Users/lizzhale/Exercism/cpp/grains/build/CMakeFiles/rebuild_cache.dir
+/Users/lizzhale/Exercism/cpp/grains/build/CMakeFiles/edit_cache.dir
+/Users/lizzhale/Exercism/cpp/grains/build/CMakeFiles/test_grains.dir
+/Users/lizzhale/Exercism/cpp/grains/build/CMakeFiles/grains.dir

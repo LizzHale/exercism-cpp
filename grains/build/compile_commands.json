@@ -1,0 +1,17 @@
+[
+{
+  "directory": "/Users/lizzhale/Exercism/cpp/grains/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++   -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -Wall -Wextra -Wpedantic -Werror -std=c++17 -o CMakeFiles/grains.dir/grains_test.cpp.o -c /Users/lizzhale/Exercism/cpp/grains/grains_test.cpp",
+  "file": "/Users/lizzhale/Exercism/cpp/grains/grains_test.cpp"
+},
+{
+  "directory": "/Users/lizzhale/Exercism/cpp/grains/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++   -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -Wall -Wextra -Wpedantic -Werror -std=c++17 -o CMakeFiles/grains.dir/grains.cpp.o -c /Users/lizzhale/Exercism/cpp/grains/grains.cpp",
+  "file": "/Users/lizzhale/Exercism/cpp/grains/grains.cpp"
+},
+{
+  "directory": "/Users/lizzhale/Exercism/cpp/grains/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++   -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -Wall -Wextra -Wpedantic -Werror -std=c++17 -o CMakeFiles/grains.dir/test/tests-main.cpp.o -c /Users/lizzhale/Exercism/cpp/grains/test/tests-main.cpp",
+  "file": "/Users/lizzhale/Exercism/cpp/grains/test/tests-main.cpp"
+}
+]
