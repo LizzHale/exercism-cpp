@@ -1,9 +1,12 @@
 #if !defined(GRAINS_H)
 #define GRAINS_H
 
+#include <cstdint> 
+
 namespace grains {
 
-    int square(int number);
+    std::uint64_t square(int number);
+    std::uint64_t total();
 
 }  // namespace grains
 
