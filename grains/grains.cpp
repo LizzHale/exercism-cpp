@@ -11,15 +11,13 @@ namespace grains {
         }
     }
 
-    uint64_t total() {
-        int current_square = 1;
-        int total = 0;
-
-        while (current_square <= 64) {
-            total += square(current_square);
-            ++current_square;
+    uint64_t total(int current_square) {
+        if  (current_square > 1) {
+            return square(current_square) + total(current_square - 1);
         }
-        return total;
+        else {
+            return 1;
+        }
     }
 
 }  // namespace grains

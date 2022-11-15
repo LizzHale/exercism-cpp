@@ -6,7 +6,7 @@
 namespace grains {
 
     std::uint64_t square(int number);
-    std::uint64_t total();
+    std::uint64_t total(int current_square = 64);
 
 }  // namespace grains
 
