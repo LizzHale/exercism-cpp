@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/c++ -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/raindrops.dir/raindrops_test.cpp.o CMakeFiles/raindrops.dir/raindrops.cpp.o CMakeFiles/raindrops.dir/test/tests-main.cpp.o -o raindrops 

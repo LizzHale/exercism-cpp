@@ -1,0 +1,17 @@
+[
+{
+  "directory": "/Users/lizzhale/Exercism/cpp/raindrops/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++   -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -Wall -Wextra -Wpedantic -Werror -std=c++17 -o CMakeFiles/raindrops.dir/raindrops_test.cpp.o -c /Users/lizzhale/Exercism/cpp/raindrops/raindrops_test.cpp",
+  "file": "/Users/lizzhale/Exercism/cpp/raindrops/raindrops_test.cpp"
+},
+{
+  "directory": "/Users/lizzhale/Exercism/cpp/raindrops/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++   -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -Wall -Wextra -Wpedantic -Werror -std=c++17 -o CMakeFiles/raindrops.dir/raindrops.cpp.o -c /Users/lizzhale/Exercism/cpp/raindrops/raindrops.cpp",
+  "file": "/Users/lizzhale/Exercism/cpp/raindrops/raindrops.cpp"
+},
+{
+  "directory": "/Users/lizzhale/Exercism/cpp/raindrops/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++   -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -Wall -Wextra -Wpedantic -Werror -std=c++17 -o CMakeFiles/raindrops.dir/test/tests-main.cpp.o -c /Users/lizzhale/Exercism/cpp/raindrops/test/tests-main.cpp",
+  "file": "/Users/lizzhale/Exercism/cpp/raindrops/test/tests-main.cpp"
+}
+]
