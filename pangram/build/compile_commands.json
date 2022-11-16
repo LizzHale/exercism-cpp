@@ -1,0 +1,17 @@
+[
+{
+  "directory": "/Users/lizzhale/Exercism/cpp/pangram/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++   -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -Wall -Wextra -Wpedantic -Werror -std=c++17 -o CMakeFiles/pangram.dir/pangram_test.cpp.o -c /Users/lizzhale/Exercism/cpp/pangram/pangram_test.cpp",
+  "file": "/Users/lizzhale/Exercism/cpp/pangram/pangram_test.cpp"
+},
+{
+  "directory": "/Users/lizzhale/Exercism/cpp/pangram/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++   -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -Wall -Wextra -Wpedantic -Werror -std=c++17 -o CMakeFiles/pangram.dir/pangram.cpp.o -c /Users/lizzhale/Exercism/cpp/pangram/pangram.cpp",
+  "file": "/Users/lizzhale/Exercism/cpp/pangram/pangram.cpp"
+},
+{
+  "directory": "/Users/lizzhale/Exercism/cpp/pangram/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++   -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15 -Wall -Wextra -Wpedantic -Werror -std=c++17 -o CMakeFiles/pangram.dir/test/tests-main.cpp.o -c /Users/lizzhale/Exercism/cpp/pangram/test/tests-main.cpp",
+  "file": "/Users/lizzhale/Exercism/cpp/pangram/test/tests-main.cpp"
+}
+]
