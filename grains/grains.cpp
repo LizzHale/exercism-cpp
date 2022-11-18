@@ -6,13 +6,8 @@ namespace grains {
         return uint64_t(1) << (number - 1);
     }
 
-    uint64_t total(int current_square) {
-        if  (current_square > 1) {
-            return square(current_square) + total(current_square - 1);
-        }
-        else {
-            return 1;
-        }
+    uint64_t total() {
+        return (((uint64_t(1) << (max_squares - 1)) - 1) << 1) + 1;
     }
 
 }  // namespace grains
