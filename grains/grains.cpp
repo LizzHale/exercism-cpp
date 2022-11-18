@@ -3,12 +3,7 @@
 namespace grains {
 
     uint64_t square(int number) {
-        if (number > 1) {
-            return 2 * square(number - 1);
-        }
-        else {
-            return 1;
-        }
+        return uint64_t(1) << (number - 1);
     }
 
     uint64_t total(int current_square) {
