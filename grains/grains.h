@@ -1,7 +1,7 @@
 #if !defined(GRAINS_H)
 #define GRAINS_H
 
-#include <cstdint> 
+#include <cstdint>
 
 namespace grains {
 

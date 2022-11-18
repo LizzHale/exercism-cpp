@@ -7,7 +7,7 @@ namespace grains {
     }
 
     uint64_t total() {
-        return (((uint64_t(1) << (max_squares - 1)) - 1) << 1) + 1;
+        return ((square(max_squares) - 1) << 1) + 1;
     }
 
 }  // namespace grains
